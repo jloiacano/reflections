@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It turns the directory into a repository. You need to do this so that you can make the first commit, and then start tracking changes.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is an intermitent area for the future commit. It offers an area to make changes to what the commit will be and allows the commit to include multiple files.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
