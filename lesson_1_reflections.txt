@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+FC or diff helps to narrow down the changes to just the lines that changed and leave everything else that stayed the same out.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Being able to see past mistakes and learn from them. Especially repeated mistakes.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	pros: the point of commit is an actual quantifiable change
+	cons: you might forget, or commit too late after too much has been changed.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because Git is made for programs that are likely to have multiple interconected files, whereas Google Docs is intended for standalone documents.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log: to find all the commits and their IDs in reverse chronological order
+git diff: to take two of the commits by their id and compare them to each other by lines inserted and lines deleted.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+How might using version control make you more confident to make changes that could break something?
+
+Incredibly so. On larger projects in android studio, having it saved 30-some-odd times takes up a lot of space! And branches for different possible changes?! Nice...
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+First, getting through the rest of the course... Following, my next Android Project will be using this.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
