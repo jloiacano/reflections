@@ -33,3 +33,10 @@ What is the result of merging two branches together? Why do we represent it in t
 It adds and removes all the lines from the branch that have been added or removed since the parent in common with the master.
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: does it automatically vs. having to go through line by line.
+Cons: Not smart enough to do it all on it's own vs. having to do it line by line by yourself.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
