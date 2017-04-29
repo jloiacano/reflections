@@ -21,3 +21,10 @@ What are some situations when branches would be helpful in keeping your history 
 When trying out something new that you are not sure you want to actually incorporate, or when you want to try one of multiple ways of adding or changing a feature.
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+How do the diagrams help you visualize the branch structure?
+
+Honestly, they don't... they were easily enough visualized from the log --graph --oneline command.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
