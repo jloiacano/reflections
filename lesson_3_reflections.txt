@@ -30,3 +30,10 @@ By getting together, either physically or by email to compare different code cha
 That way is obviously much harder than using GitHub.
 
 /////////////////////////////////////////////////////////////////////////////////////////////
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Almost always when you are collaborating with other people on a project, so that your changes dont break the master and mess up others work.
+If you are just using it as a VCS for yourself, this isn't necessarily the case, and you can make changes on your own master as you see fit.
+
+/////////////////////////////////////////////////////////////////////////////////////////////
